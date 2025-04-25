@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>خيرات بلدنا</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>خيرات بلدنا</h1>
+        <p>أفضل المنتجات الطبيعية من قلب تركيا</p>
+    </header>
+    <section class="products">
+        <h2>منتجاتنا</h2>
+        <div class="product-list">
+            <div class="product">
+                <img src="https://via.placeholder.com/150" alt="عسل نقي">
+                <h3>عسل نقي</h3>
+                <p>عسل طبيعي 100٪ من جبال تركيا.</p>
+                <a href="https://wa.me/905000000000?text=مرحبا، أريد طلب عسل نقي." target="_blank">
+                    <button>اطلب الآن</button>
+                </a>
+            </div>
+            <div class="product">
+                <img src="https://via.placeholder.com/150" alt="سمن عربي">
+                <h3>سمن عربي</h3>
+                <p>سمن بلدي أصيل بطعم زمان.</p>
+                <a href="https://wa.me/905000000000?text=مرحبا، أريد طلب سمن عربي." target="_blank">
+                    <button>اطلب الآن</button>
+                </a>
+            </div>
+            <div class="product">
+                <img src="https://via.placeholder.com/150" alt="زيت زيتون">
+                <h3>زيت زيتون</h3>
+                <p>زيت زيتون بكر ممتاز من عصرة أولى.</p>
+                <a href="https://wa.me/905000000000?text=مرحبا، أريد طلب زيت زيتون." target="_blank">
+                    <button>اطلب الآن</button>
+                </a>
+            </div>
+            <div class="product">
+                <img src="https://via.placeholder.com/150" alt="جبنة بلدية">
+                <h3>جبنة بلدية</h3>
+                <p>جبنة بلدية تركية بنكهة فريدة.</p>
+                <a href="https://wa.me/905000000000?text=مرحبا، أريد طلب جبنة بلدية." target="_blank">
+                    <button>اطلب الآن</button>
+                </a>
+            </div>
+        </div>
+    </section>
+    <footer>
+        <p>© 2025 خيرات بلدنا. جميع الحقوق محفوظة.</p>
+    </footer>
+</body>
+</html>
